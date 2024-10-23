@@ -1,1 +1,2 @@
 *.jar filter=lfs diff=lfs merge=lfs -text
+VATT-1.0.0-jar-with-dependencies.jar filter=lfs diff=lfs merge=lfs -text
